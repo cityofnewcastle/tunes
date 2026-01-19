@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>City of NEwcastle Pipe BAnd - YouTube Video Gallery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #111;
+            font-family: Arial, sans-serif;
+            color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .video-container {
+            max-width: 900px;
+            margin: 0 auto 40px auto;
+            aspect-ratio: 16 / 9;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+<center>
+    <h1>Medley Toon 2026</h1><br><h3>At Tempo</h3> <hr>
+    <br>
+    <h3>The Hoolit</h3>
+
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/hJFrTf4ssQo?si=kdwNnusNAgN1fGz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       
+    </div>
+<br> <h3>Ellis Kellys Delight</h3>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KvcqQb3aVu8?si=qQjSu4QPgHw8r3qZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+<br><h3>New Year at Noosa</h3>
+    <div class="video-container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/fzVNxOe2BbY?si=aBf8VEY6axm3UmtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <br><h3>Call to The Gathering</h3>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4Zpf593su8?si=xNd1jC1RJbOfP2M4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+      <br><h3>Callum Campbell</h3>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1rS8EV5-p2Q?si=-Y68T00ucIE5OTy9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> 
+        <br><h3>Ravens Rock</h3>
+<div class="video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/gJC-a897T7Q?si=rlS1qZMCB8TBFVax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div> 
+   <br><h3>JK Laign</h3>
+<div class="video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/rfAb9iHOevg?si=Erm8Et88I6usGK7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div> 
+    </center>
+</body>
+</html>
